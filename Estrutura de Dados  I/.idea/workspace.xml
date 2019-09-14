@@ -1,7 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="76f1afcd-9956-405f-abe5-0bdb09397767" name="Default Changelist" comment="" />
+    <list default="true" id="76f1afcd-9956-405f-abe5-0bdb09397767" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../AP3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AP3/src/TrabalhoG1/Teclado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AP3/src/TrabalhoG1/TesteMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Trabalho01_Listas_Lineares/Aluno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Trabalho01_Listas_Lineares/Lista.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Trabalho01_Listas_Lineares/ListaTeste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Trabalho_Listas_Lineares/Aluno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Trabalho_Listas_Lineares/Lista.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Trabalho_Listas_Lineares/Programa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AP3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AP3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AP3/out/production/AP3/Aula05_Exercicios/MeusArrays.class" beforeDir="false" afterPath="$PROJECT_DIR$/../AP3/out/production/AP3/Aula05_Exercicios/MeusArrays.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Estrutura de Dados  I/Exercicio_Listas_Encadeadas/Elemento.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Estrutura de Dados  I/Exercicio_Listas_Encadeadas/Elemento.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Estrutura de Dados  I/Exercicio_Listas_Encadeadas/Lista.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Estrutura de Dados  I/Exercicio_Listas_Encadeadas/Lista.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Estrutura de Dados  I/Exercicio_Listas_Encadeadas/VetorTeste.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Estrutura de Dados  I/Exercicio_Listas_Encadeadas/VetorTeste.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Estrutura de Dados  I/Exercicio_Listas_Lineares/Elemento.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Estrutura de Dados  I/Exercicio_Listas_Lineares/Elemento.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Estrutura de Dados  I/Exercicio_Listas_Lineares/TestaLista.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Estrutura de Dados  I/Exercicio_Listas_Lineares/TestaLista.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Estrutura de Dados  I/Exercicio_Listas_Lineares/Vetor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Estrutura de Dados  I/Exercicio_Listas_Lineares/Vetor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercicio_Listas_Lineares/TestaLista.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercicio_Listas_Lineares/TestaLista.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercicio_Listas_Lineares/Vetor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercicio_Listas_Lineares/Vetor.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,13 +39,19 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1QM38QWrAXFeKpYnQ3jLaf12sHX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -35,7 +65,33 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.ListaTeste">
+    <configuration name="ListaTeste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Trabalho01_Listas_Lineares.ListaTeste" />
+      <module name="Estrutura de Dados  I" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Trabalho01_Listas_Lineares.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Programa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Trabalho_Listas_Lineares.Programa" />
+      <module name="Estrutura de Dados  I" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Trabalho_Listas_Lineares.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TestaLista" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Exercicio_Listas_Lineares.TestaLista" />
       <module name="Estrutura de Dados  I" />
@@ -51,6 +107,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ListaTeste" />
+        <item itemvalue="Application.Programa" />
         <item itemvalue="Application.TestaLista" />
       </list>
     </recent_temporary>
@@ -67,10 +125,29 @@
       <updated>1567566477683</updated>
       <workItem from="1567566484198" duration="2674000" />
       <workItem from="1567562290174" duration="3437000" />
+      <workItem from="1568079290465" duration="2459000" />
+      <workItem from="1568164006812" duration="739000" />
+      <workItem from="1568217008083" duration="2856000" />
+      <workItem from="1568239591959" duration="4000000" />
+      <workItem from="1568301746220" duration="4594000" />
+      <workItem from="1568390379992" duration="994000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

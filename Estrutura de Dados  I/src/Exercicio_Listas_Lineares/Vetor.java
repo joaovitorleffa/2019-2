@@ -4,10 +4,10 @@ public class Vetor {
     private Elemento[] elementos = new Elemento[10];
     private int totalElementos = 0;
 
-    public void adiciona (Elemento elemento) {
+    public void adiciona(Elemento elemento) {
         this.elementos[totalElementos] = elemento;
         totalElementos++;
-        System.out.println("Endereço na memória: " + elemento);
+        System.out.println("Endereço na memória: " + elementos);
         System.out.println("Tamanho da lista: " + tamanho());
     }
 

@@ -7,8 +7,8 @@ import java.util.Scanner;
 
 public class TestaLista {
     public static void main(String[] args) {
-       // Elemento elemento1 = new Elemento(1); //atribuindo valor ao inteiro da classe Elemento
-       // Elemento elemento2 = new Elemento(2);
+        Elemento elemento1 = new Elemento(1); //atribuindo valor ao inteiro da classe Elemento
+        Elemento elemento2 = new Elemento(2);
 
         Vetor lista = new Vetor(); //instanciando objeto
 
@@ -32,17 +32,17 @@ public class TestaLista {
                 break;
 
                 case 2:
-                    Elemento elemento = new Elemento(Integer.parseInt(JOptionPane.showInputDialog("Digite um numero: ")));
+                    Elemento elemento = new  Elemento(Integer.parseInt(JOptionPane.showInputDialog("Digite um numero: ")));
                     lista.adiciona(elemento);
-                    break;
+                break;
 
                 case 3:
                     lista.remove();
-                    break;
+                break;
 
                 case 4:
                     lista.limpaLista();
-                    break;
+                break;
 
             }
         } while (opcao != 5);
@@ -50,7 +50,7 @@ public class TestaLista {
 
         //exemplo do uso dos métodos sem o menu
 
-        /*
+
         System.out.println(lista.tamanho());
         lista.adiciona(elemento1);
         System.out.println(lista.tamanho());
@@ -60,7 +60,7 @@ public class TestaLista {
         System.out.println(lista.tamanho());
         lista.limpaLista();
         System.out.println(lista.tamanho());
-        */
+
 
     }
 }
