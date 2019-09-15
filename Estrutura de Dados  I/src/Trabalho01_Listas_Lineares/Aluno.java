@@ -1,5 +1,6 @@
 package Trabalho01_Listas_Lineares;
 
+import java.text.DecimalFormat;
 import java.util.Scanner;
 
 public class Aluno {
@@ -9,6 +10,7 @@ public class Aluno {
     private String email;
     private double notaG1;
     private double notaG2;
+    private double media;
 
     public void lerAluno() {
         Scanner tc = new Scanner(System.in);
@@ -24,6 +26,7 @@ public class Aluno {
         this.notaG1 = tc.nextDouble();
         System.out.print("Digite a nota G2: ");
         this.notaG2 = tc.nextDouble();
+        media = (this.notaG1 + (this.notaG2 * 2)) / 3;
     }
 
     public String getCodigo() {
@@ -64,5 +67,10 @@ public class Aluno {
                 "\nEmail: " + email +
                 "\nNota G1: " + notaG1 +
                 "\nNota G2: " + notaG2;
+    }
+
+    public String retornaComMedia() {
+        DecimalFormat formatador = new DecimalFormat("0.00");
+        return "Nome: " + nome + "\nMédia: " + formatador.format(media) + "\n";
     }
 }

@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="db0d6e6a-3e29-47d3-8fef-8659b1dd4bcf" name="Default Changelist" comment="" />
+    <list default="true" id="db0d6e6a-3e29-47d3-8fef-8659b1dd4bcf" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Estrutura de Dados  I/src/Trabalho01_Listas_Lineares/Lista.java" beforeDir="false" afterPath="$PROJECT_DIR$/Estrutura de Dados  I/src/Trabalho01_Listas_Lineares/Lista.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Estrutura de Dados  I/src/Trabalho01_Listas_Lineares/ListaTeste.java" beforeDir="false" afterPath="$PROJECT_DIR$/Estrutura de Dados  I/src/Trabalho01_Listas_Lineares/ListaTeste.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,6 +61,7 @@
       <updated>1567985596461</updated>
       <workItem from="1567985614140" duration="1168000" />
       <workItem from="1568078619491" duration="421000" />
+      <workItem from="1568518573644" duration="1037000" />
     </task>
     <servers />
   </component>
@@ -69,7 +73,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
