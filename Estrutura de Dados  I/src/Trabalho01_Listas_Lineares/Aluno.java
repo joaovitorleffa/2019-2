@@ -1,10 +1,6 @@
 package Trabalho01_Listas_Lineares;
-
-import com.sun.xml.internal.messaging.saaj.packaging.mime.internet.InternetHeaders;
-
 import java.text.DecimalFormat;
 import java.util.Scanner;
-import java.util.concurrent.ExecutionException;
 
 public class Aluno {
     private String codigo;
@@ -46,21 +42,6 @@ public class Aluno {
         return nome;
     }
 
-    public String getTelefone() {
-        return telefone;
-    }
-
-    public String getEmail() {
-        return email;
-    }
-
-    public double getNotaG1() {
-        return notaG1;
-    }
-
-    public double getNotaG2() {
-        return notaG2;
-    }
 
     @Override
     public boolean equals(Object obj) {

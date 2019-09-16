@@ -41,6 +41,7 @@ public class ListaTeste {
                     break;
                 }
                 case 4 : {
+                    System.out.println("\n***** Incluindo apos um nome *****");
                     System.out.print("\nDigite o nome do Aluno: ");
                     String nomeAluno = tc.next();
                     Aluno novoAluno = new Aluno();
@@ -50,6 +51,7 @@ public class ListaTeste {
                     break;
                 }
                 case 5 : {
+                    System.out.println("\n***** Consulta por nome *****");
                     System.out.print("\nDigite um nome: ");
                     String nomeParaBusca = tc.next();
                     lista.consultarPorNome(nomeParaBusca);
