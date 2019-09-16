@@ -10,6 +10,17 @@ public class ListaTeste {
 
 
         do {
+            System.out.println("\n1- Criar Lista");
+            System.out.println("2- Incluir no fim");
+            System.out.println("3- Incluir no início");
+            System.out.println("4- Incluir após um nome");
+            System.out.println("5- Consultar por nome");
+            System.out.println("6- Excluir do início");
+            System.out.println("7- Excluir do fim");
+            System.out.println("8- Excluir por código");
+            System.out.println("9- Listar registros");
+            System.out.println("10- Listar com médias");
+            System.out.println("11- Sair");
             opcao = tc.nextInt();
             switch (opcao) {
                 case 1 : {
@@ -64,9 +75,12 @@ public class ListaTeste {
                 case 10 : {
                     lista.listarComMedias();
                 }
-
-                default:
-                    System.out.println("\n ***** Opção Inválida. Digite novamente! *****");
+                case 11 : {
+                    break;
+                }
+            }
+            if (opcao < 1 || opcao > 12) {
+                System.out.println("Opção inválida!");
             }
         } while(opcao != 11);
     }

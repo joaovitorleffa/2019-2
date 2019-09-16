@@ -2,11 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="76f1afcd-9956-405f-abe5-0bdb09397767" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Trabalho01_Listas_Lineares/Leitura.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Estrutura de Dados  I/Trabalho01_Listas_Lineares/Lista.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Estrutura de Dados  I/Trabalho01_Listas_Lineares/Lista.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Estrutura de Dados  I/Trabalho01_Listas_Lineares/Aluno.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Estrutura de Dados  I/Trabalho01_Listas_Lineares/Aluno.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Estrutura de Dados  I/Trabalho01_Listas_Lineares/ListaTeste.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Estrutura de Dados  I/Trabalho01_Listas_Lineares/ListaTeste.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Trabalho01_Listas_Lineares/Lista.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Trabalho01_Listas_Lineares/Lista.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Estrutura de Dados  I/Trabalho_Listas_Lineares/Aluno.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Estrutura de Dados  I/Trabalho_Listas_Lineares/Lista.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Estrutura de Dados  I/Trabalho_Listas_Lineares/Programa.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Trabalho01_Listas_Lineares/Aluno.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Trabalho01_Listas_Lineares/Aluno.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Trabalho01_Listas_Lineares/ListaTeste.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Trabalho01_Listas_Lineares/ListaTeste.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -115,7 +119,9 @@
       <workItem from="1568301746220" duration="4594000" />
       <workItem from="1568390379992" duration="994000" />
       <workItem from="1568519800354" duration="6841000" />
-      <workItem from="1568562233227" duration="550000" />
+      <workItem from="1568562233227" duration="4323000" />
+      <workItem from="1568568546534" duration="3073000" />
+      <workItem from="1568585527009" duration="4427000" />
     </task>
     <servers />
   </component>
@@ -134,19 +140,5 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/Trabalho01_Listas_Lineares/Lista.java</url>
-          <line>40</line>
-          <properties class="Trabalho01_Listas_Lineares.Lista" method="adicionaAposNome">
-            <option name="EMULATED" value="true" />
-          </properties>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
