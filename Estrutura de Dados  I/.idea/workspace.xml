@@ -2,13 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="76f1afcd-9956-405f-abe5-0bdb09397767" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Exercicio_Filas/Fila.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercicio_Filas/usaFila.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Estrutura de Dados  I/Trabalho01_Listas_Lineares/Aluno.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Estrutura de Dados  I/Trabalho01_Listas_Lineares/Aluno.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Estrutura de Dados  I/Trabalho01_Listas_Lineares/Lista.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Estrutura de Dados  I/Trabalho01_Listas_Lineares/Lista.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Estrutura de Dados  I/Trabalho01_Listas_Lineares/ListaTeste.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Estrutura de Dados  I/Trabalho01_Listas_Lineares/ListaTeste.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Trabalho01_Listas_Lineares/Aluno.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Trabalho01_Listas_Lineares/Aluno.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Trabalho01_Listas_Lineares/Lista.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Trabalho01_Listas_Lineares/Lista.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Trabalho01_Listas_Lineares/ListaTeste.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Trabalho01_Listas_Lineares/ListaTeste.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -63,7 +61,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ListaTeste">
+  <component name="RunManager" selected="Application.usaFila">
     <configuration name="ListaTeste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Trabalho01_Listas_Lineares.ListaTeste" />
       <module name="Estrutura de Dados  I" />
@@ -103,8 +101,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="usaFila" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercicio_Filas.usaFila" />
+      <module name="Estrutura de Dados  I" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Exercicio_Filas.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.usaFila" />
         <item itemvalue="Application.ListaTeste" />
         <item itemvalue="Application.Programa" />
         <item itemvalue="Application.TestaLista" />
@@ -134,6 +146,7 @@
       <workItem from="1568568546534" duration="3073000" />
       <workItem from="1568585527009" duration="4427000" />
       <workItem from="1568649012044" duration="1459000" />
+      <workItem from="1568671268669" duration="8484000" />
     </task>
     <servers />
   </component>
@@ -152,5 +165,51 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Exercicio_Filas/Fila.java</url>
+          <line>16</line>
+          <properties class="Exercicio_Filas.Fila" method="vazia">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Exercicio_Filas/Fila.java</url>
+          <line>24</line>
+          <properties class="Exercicio_Filas.Fila" method="cheia">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Exercicio_Filas/Fila.java</url>
+          <line>32</line>
+          <properties class="Exercicio_Filas.Fila" method="enfileirar">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Exercicio_Filas/Fila.java</url>
+          <line>42</line>
+          <properties class="Exercicio_Filas.Fila" method="desinfileirar">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Exercicio_Filas/Fila.java</url>
+          <line>51</line>
+          <properties class="Exercicio_Filas.Fila" method="exibeFila">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

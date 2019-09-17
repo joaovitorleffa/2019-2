@@ -16,7 +16,7 @@ public class Lista {
     //2 - adicionar no fim
     public void adicionaNoFim(Aluno novoAluno) {
         if (alunos[quantidade] == null) {
-            this.alunos[quantidade] = novoAluno;
+            alunos[this.quantidade] = novoAluno;
             this.quantidade++;
         }
     }

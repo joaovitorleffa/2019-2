@@ -2,13 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="db0d6e6a-3e29-47d3-8fef-8659b1dd4bcf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Estrutura de Dados  I/src/Trabalho01_Listas_Lineares/Leitura.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AP3/src/teste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Estrutura de Dados  I/src/Exercicio_Filas/Fila.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Estrutura de Dados  I/src/Exercicio_Filas/usaFila.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AP3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/AP3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AP3/out/production/AP3/TrabalhoG1/Teclado.class" beforeDir="false" afterPath="$PROJECT_DIR$/AP3/out/production/AP3/TrabalhoG1/Teclado.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AP3/out/production/AP3/TrabalhoG1/TesteMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/AP3/out/production/AP3/TrabalhoG1/TesteMain.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Estrutura de Dados  I/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Estrutura de Dados  I/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Estrutura de Dados  I/out/production/Estrutura de Dados  I/Trabalho01_Listas_Lineares/Aluno.class" beforeDir="false" afterPath="$PROJECT_DIR$/Estrutura de Dados  I/out/production/Estrutura de Dados  I/Trabalho01_Listas_Lineares/Aluno.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Estrutura de Dados  I/out/production/Estrutura de Dados  I/Trabalho_Listas_Lineares/Aluno.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Estrutura de Dados  I/out/production/Estrutura de Dados  I/Trabalho_Listas_Lineares/Lista.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Estrutura de Dados  I/out/production/Estrutura de Dados  I/Trabalho_Listas_Lineares/Programa.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Estrutura de Dados  I/src/Trabalho01_Listas_Lineares/Aluno.java" beforeDir="false" afterPath="$PROJECT_DIR$/Estrutura de Dados  I/src/Trabalho01_Listas_Lineares/Aluno.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Estrutura de Dados  I/src/Trabalho01_Listas_Lineares/Lista.java" beforeDir="false" afterPath="$PROJECT_DIR$/Estrutura de Dados  I/src/Trabalho01_Listas_Lineares/Lista.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -68,6 +70,7 @@
       <workItem from="1568078619491" duration="421000" />
       <workItem from="1568518573644" duration="1037000" />
       <workItem from="1568585332208" duration="96000" />
+      <workItem from="1568735013591" duration="30000" />
     </task>
     <servers />
   </component>

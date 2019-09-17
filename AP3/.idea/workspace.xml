@@ -2,23 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d2647a59-7bf0-4879-b352-a80cea1a3fb8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TrabalhoG1/Teclado.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TrabalhoG1/TesteMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Estrutura de Dados  I/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/teste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Estrutura de Dados  I/src/Exercicio_Filas/Fila.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Estrutura de Dados  I/src/Exercicio_Filas/usaFila.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AP3/Aula05_Exercicios/MeusArrays.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AP3/Aula05_Exercicios/MeusArrays.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Estrutura de Dados  I/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Estrutura de Dados  I/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AP3/TrabalhoG1/Teclado.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AP3/TrabalhoG1/Teclado.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AP3/TrabalhoG1/TesteMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AP3/TrabalhoG1/TesteMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TrabalhoG1/Teclado.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TrabalhoG1/Teclado.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TrabalhoG1/TesteMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TrabalhoG1/TesteMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Estrutura de Dados  I/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Estrutura de Dados  I/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Estrutura de Dados  I/out/production/Estrutura de Dados  I/Exercicio_Listas_Encadeadas/Elemento.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Estrutura de Dados  I/out/production/Estrutura de Dados  I/Exercicio_Listas_Encadeadas/Elemento.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Estrutura de Dados  I/out/production/Estrutura de Dados  I/Exercicio_Listas_Encadeadas/Lista.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Estrutura de Dados  I/out/production/Estrutura de Dados  I/Exercicio_Listas_Encadeadas/Lista.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Estrutura de Dados  I/out/production/Estrutura de Dados  I/Exercicio_Listas_Encadeadas/VetorTeste.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Estrutura de Dados  I/out/production/Estrutura de Dados  I/Exercicio_Listas_Encadeadas/VetorTeste.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Estrutura de Dados  I/out/production/Estrutura de Dados  I/Exercicio_Listas_Lineares/Elemento.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Estrutura de Dados  I/out/production/Estrutura de Dados  I/Exercicio_Listas_Lineares/Elemento.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Estrutura de Dados  I/out/production/Estrutura de Dados  I/Exercicio_Listas_Lineares/TestaLista.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Estrutura de Dados  I/out/production/Estrutura de Dados  I/Exercicio_Listas_Lineares/TestaLista.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Estrutura de Dados  I/out/production/Estrutura de Dados  I/Exercicio_Listas_Lineares/Vetor.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Estrutura de Dados  I/out/production/Estrutura de Dados  I/Exercicio_Listas_Lineares/Vetor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Estrutura de Dados  I/src/Exercicio_Listas_Lineares/TestaLista.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Estrutura de Dados  I/src/Exercicio_Listas_Lineares/TestaLista.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Estrutura de Dados  I/src/Exercicio_Listas_Lineares/Vetor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Estrutura de Dados  I/src/Exercicio_Listas_Lineares/Vetor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Estrutura de Dados  I/out/production/Estrutura de Dados  I/Trabalho01_Listas_Lineares/Aluno.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Estrutura de Dados  I/out/production/Estrutura de Dados  I/Trabalho01_Listas_Lineares/Aluno.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Estrutura de Dados  I/src/Trabalho01_Listas_Lineares/Lista.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Estrutura de Dados  I/src/Trabalho01_Listas_Lineares/Lista.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -83,19 +78,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestaRetornaMes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Aula05_Exercicios.TestaRetornaMes" />
-      <module name="AP3" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Aula05_Exercicios.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="TestaSenha" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Aula05_Exercicios.TestaSenha" />
       <module name="AP3" />
@@ -122,13 +104,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="teste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="teste" />
+      <module name="AP3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.TesteMain" />
+        <item itemvalue="Application.teste" />
         <item itemvalue="Application.TestaMeusArrays" />
         <item itemvalue="Application.TestaSenha" />
         <item itemvalue="Application.TestaContagem" />
-        <item itemvalue="Application.TestaRetornaMes" />
       </list>
     </recent_temporary>
   </component>
@@ -149,6 +138,8 @@
       <workItem from="1567978246828" duration="337000" />
       <workItem from="1567978823057" duration="6443000" />
       <workItem from="1568166812556" duration="7223000" />
+      <workItem from="1568713528908" duration="367000" />
+      <workItem from="1568735092524" duration="2479000" />
     </task>
     <servers />
   </component>
@@ -160,7 +151,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
