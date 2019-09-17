@@ -100,7 +100,6 @@ public class Teclado {
                 return email;
             }
         } catch (Exception ex) {
-            System.out.println("O Email não é valido!");
             return null;
         }
         return null;
